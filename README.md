@@ -1,3 +1,26 @@
+# Nitrox Calculator
+
+This React js webapp can help you to calculate:
+
+- Maximum Operating Depth (MOD)  
+- Best Mix  
+- Equivalent Air Depth (EAD)  
+- Nitrox dive planner  
+
+It also contains:
+- Resources  
+- Lingo
+
+Check this working [demo](https://nitrox.discover-scuba.berlin "Nitrox Calculator demo")
+
+
+  
+
+**Warning:** The calculations produced by this application should only be used by Nitrox divers certified by a recognized SCUBA Diving training. 
+
+This calculator provides information about gas use in scuba diving. UNDER NO CIRCUMSTANCES is there any implication that any gas mixture is safe or even life supporting at any depth. If you have not recived training in technical scuba diving, Nitrox, Trimix or Heliox you should not attempt to use any of these results. Improper use of gasses in diving can result in injury or DEATH.
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
