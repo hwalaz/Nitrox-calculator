@@ -7,7 +7,7 @@ export default class Home extends Component {
       <div className="container">
         <div className="row shadow">
           <div className="col-12">
-            <img src={decal} />
+            <img src={decal} alt="EAN" />
           </div>
           <div className="col-12">
             <h2>Disclaimer</h2>
